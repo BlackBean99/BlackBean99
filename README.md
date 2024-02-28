@@ -20,11 +20,6 @@
 - @Econovation Backend | AI 개발자 (2021.03 ~ 2023.09)
 
 
-
-
-<a href="https://silver-zinnia-0e0.notion.site/08a80cd51c8847b7b44a0846d1604b1d"><img src="https://img.shields.io/badge/Notion-E8E8E8?style=for-the-badge&logo=Notion&logoColor=000000&link=https://silver-zinnia-0e0.notion.site/08a80cd51c8847b7b44a0846d1604b1d"></a><a href = "https://www.instagram.com/god.s.h">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/god.s.h"/></a>
-
 [![BlackBean99's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackBean99&show_icon=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=BlackBean99)](https://solved.ac/BlackBean99/)
