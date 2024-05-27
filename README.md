@@ -23,8 +23,9 @@
 - 2022 Naver D2 Camput Partner ( 2022.06 ~ 2023.06 )
 - @Econovation Backend | AI 개발자 (2021.03 ~ 2023.09)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBean99&langs_count=10&layout=compact&theme=highcontrast)](https://github.com/BlackBean99) [![BlackBean99's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackBean99&show_icon=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)  ﻿
 
-[![BlackBean99's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackBean99&show_icon=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=BlackBean99)](https://solved.ac/BlackBean99/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=BlackBean99)](https://solved.ac/BlackBean99/)
 
 
 ### 🏅 Certificates
