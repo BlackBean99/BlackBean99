@@ -1,17 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=BlackBean99%20&fontSize=90)
 
+## ☕ 이서현 / LeeSeoHyeon ☕
 
-## ☕이서현 / LeeSeoHyeon☕
-
-소프트웨어를 통해 유용한 가치를 창출하는 것을 보람으로 삼고 있는 소프트웨어 개발자입니다. 사람과 사회에 대한 폭넓은 이해를 바탕으로 기술로 혁신을 가져오는 소프트웨어를 개발하는 개발자를 지향합니다.
-
+배움과 지식의 선순환의 가치를 주도적으로 실천하는 BackEnd & Infra Engineer입니다.
+경계에 국한되지 않고, 함께 성장하는 공동체를 만들어가는데 주도적으로 지식 공유 활동(강의, 블로그, 스터디 등)을 이끌고 있습니다.
 
 👨 Software Backend Developer<br/>
+🏫 ETRI (한국전자통신연구원) 연구과제 / 연구원 근무 / Chunnam Univ distributive research, Information Center Server Engineer<br/>
 🏛 Chunnam Univ. Software Engineering<br/>
 🎓 SmileGate Winter Course Backend<br/>
 
 
 ---
+
+### 🏅 History
+- KB IT's Your Life 금융 교육 (2024.05 ~ .)
+- 전남대학교 산학협력단 정보화 본부 연구원 근무 / ETRI 한국전자통신 연구원 연구과제 수행 (2023.08.07 ~ 2023.10.31)
 - JUNCTION ASIA 2023 @JUCTION Backend 개발자 (2023.08.18 ~ 2023.08.20)
 - 디프만 14기 @Depromeet 운영진 (2023.07 ~ 2024.02)
 - 디프만 13기 @Depromeet Backend 개발자 (2023.03 ~ 2023.07)
@@ -20,13 +24,14 @@
 - @Econovation Backend | AI 개발자 (2021.03 ~ 2023.09)
 
 
-[![BlackBean99's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackBean99&show_icon=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=BlackBean99)](https://solved.ac/BlackBean99/)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlackBean99&count_bg=%234B8EEE&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![BlackBean99's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackBean99&show_icon=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=BlackBean99)](https://solved.ac/BlackBean99/)
 
 
+### 🏅 Certificates
+![aws-certified-solutions-architect-associate (1)](https://github.com/BlackBean99/BlackBean99/assets/54030889/00795d79-6355-4031-84be-9cfd988a5894)
+- AWS Solutions Architect - Associate
+- SQLD (SQL Developer)
+- 컴퓨터활용능력
 
 ---
 ### 💻Tech Stack💻
@@ -42,12 +47,11 @@
 
 ### 🧑‍💻Organization🧑‍💻
 
-
 <a href = "https://depromeet.com"><img src = "https://img.shields.io/badge/Depromeet-003D7D?style=flat-square"></a>
 <a href = "https://econovation.kr/about"><img src = "https://img.shields.io/badge/Econovation-003D7D?style=flat-square"></a>
 <a href = "https://d2.naver.com"><img src = "https://img.shields.io/badge/NaverD2-28CF37?style=flat-square"></a>
 <a href = "https://careers.smilegate.com/student/development-camp)"><img src = "https://img.shields.io/badge/SmileGate-FD6F23?style=flat-square"></a>
 
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlackBean99&count_bg=%234B8EEE&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
