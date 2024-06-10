@@ -14,6 +14,7 @@
 ---
 
 ### 🏅 History
+- Spring project Contributor (2024.06.03)
 - KB IT's Your Life 금융 교육 (2024.05 ~ .)
 - 전남대학교 산학협력단 정보화 본부 연구원 근무 / ETRI 한국전자통신 연구원 연구과제 수행 (2023.08.07 ~ 2023.10.31)
 - JUNCTION ASIA 2023 @JUCTION Backend 개발자 (2023.08.18 ~ 2023.08.20)
