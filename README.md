@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=BlackBean99%20&fontSize=90)
 
 ## ☕ 커피요정 개발자 이서현 / LeeSeoHyeon ☕
-ps) 동료들에게 직접 내린 커피를 권하며 기술, 도메인, 커뮤니케이션 등 다양한 분야에 대해 토론하기를 즐겨합니다.
+ps) 동료들에게 직접 내린 커피를 함께 나누며 기술, 도메인, 커뮤니케이션 등 다양한 분야에 대해 토론하기를 즐겨합니다.
 
 배움과 지식의 선순환의 가치를 주도적으로 실천하는 BackEnd & Infra Engineer입니다.
 경계에 국한되지 않고, 함께 성장하는 공동체를 만들어가는데 주도적으로 지식 공유 활동(강의, 블로그, 스터디 등)을 이끌고 있습니다.
@@ -9,6 +9,7 @@ ps) 동료들에게 직접 내린 커피를 권하며 기술, 도메인, 커뮤�
 
 
 👨 Software Backend Developer<br/>
+🏫 Huawei Korea Wireless Engineer ( 현 근무중 )
 🏫 ETRI (한국전자통신연구원) 연구과제 / 연구원 근무 / Chunnam Univ distributive research, Information Center Server Engineer<br/>
 🏫 시제품 디자인, 개발자 & 교육 담당자 / 만들마루사업단 근무 /Chunnam MakerSpace MANDULMARU <br/>
 🏛 Chunnam Univ. Software Engineering<br/>
@@ -28,6 +29,7 @@ ps) 동료들에게 직접 내린 커피를 권하며 기술, 도메인, 커뮤�
 - 2022 Naver D2 Camput Partner ( 2022.06 ~ 2023.06 )
 - @Econovation Backend | AI 개발자 (2021.03 ~ 2023.09)
 - 경력 / 메이커스페이스 만들마루 시제품 제작자 및 교육 담당자 ( 2021.07 ~ 2023.02 / 1년 9개월 근무 )
+- 경력 / Huawei Korea Wireless Engineer / LG UPlus 4G, 5G 서비스 구축 및 유지보수팀
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBean99&langs_count=10&layout=compact&theme=highcontrast)](https://github.com/BlackBean99) [![BlackBean99's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackBean99&show_icon=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)  ﻿
 
