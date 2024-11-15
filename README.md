@@ -12,7 +12,7 @@ ps) 동료들에게 직접 내린 커피를 함께 나누며 기술, 도메인, 
 🏫 Huawei Korea Wireless Engineer ( 현 근무중 )
 🏫 ETRI (한국전자통신연구원) 연구과제 / 연구원 근무 / Chunnam Univ distributive research, Information Center Server Engineer<br/>
 🏫 시제품 디자인, 개발자 & 교육 담당자 / 만들마루사업단 근무 /Chunnam MakerSpace MANDULMARU <br/>
-🏛 Chunnam Univ. Software Engineering<br/>
+🏛 Chonnam Univ. Software Engineering<br/>
 🎓 SmileGate Winter Course Backend<br/>
 
 
