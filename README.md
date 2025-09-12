@@ -1,14 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=BlackBean99%20&fontSize=90)
-
-'성장 가속화'를 지원하는 개발자
-빠른 성장에 집중할 수 있도록 신뢰성이 높고 안정적인 인프라 및 서비스를 제공하는데 관심이 많습니다.
-개인의 성장뿐만 아니라 공동체가 나아갈 올바른 방향을 늘 고민하고 공유합니다.
-경계에 국한되지 않고, 함께 성장하는 공동체를 만들어가는데 주도적으로 지식 공유 활동(강의, 블로그, 스터디 등)을 이끌고 있습니다.
+Huawei 에서 LG LTE/5G 서비스가 안정적으로 운영될 수 있도록 기술 지원업무를 수행하고 있습니다. <br/>
+‘멈추지 않는 시스템은 멈추지 않는 신뢰’라는 철학으로, 신뢰를 구조적으로 설계하는 사람이 되고자 합니다.<br/>
+이를 위해 장애가 재발되지 않고, 안정성을 높이기 위한 도전들을 멈추지 않습니다.<br/>
 
 
 
 👨 Software Backend Developer<br/>
-🏫 Huawei Korea Wireless Engineer ( 현 근무중 )
+🏫 Huawei Korea Wireless Engineer ( 현 근무중 ) / SRE(인프라 엔지니어)<br/>
 🏫 ETRI (한국전자통신연구원) 연구과제 / 연구원 근무 / Chunnam Univ distributive research, Information Center Server Engineer<br/>
 🏫 시제품 디자인, 개발자 & 교육 담당자 / 만들마루사업단 근무 /Chunnam MakerSpace MANDULMARU <br/>
 🏛 Chonnam Univ. Software Engineering<br/>
