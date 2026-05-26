@@ -4,8 +4,9 @@ Huawei 에서 LG LTE/5G 서비스가 안정적으로 운영될 수 있도록 기
 
 
 
-👨 Software Backend Developer<br/>
-🏫 Huawei Korea Wireless Engineer ( 현 근무중 ) / SRE(인프라 엔지니어)<br/>
+👨 Software Developer / Infrastructure System Engineer / 개인신용정보관리인 <br/>
+🏫 SBI 저축은행 (현 근무중) / Security Infrastructure Engineer
+🏫 Huawei Korea Wireless Engineer / SRE(인프라 엔지니어)<br/>
 🏫 ETRI (한국전자통신연구원) 연구과제 / 연구원 근무 / Chunnam Univ distributive research, Information Center Server Engineer<br/>
 🏫 시제품 디자인, 개발자 & 교육 담당자 / 만들마루사업단 근무 /Chunnam MakerSpace MANDULMARU <br/>
 🏛 Chonnam Univ. Software Engineering<br/>
@@ -15,6 +16,7 @@ Huawei 에서 LG LTE/5G 서비스가 안정적으로 운영될 수 있도록 기
 ---
 
 ### 🏅 History
+- 경력 / SBI Savings Bank / 정보보호팀 개인신용정보보호, 보안 인프라 구축 및 관리
 - 경력 / Huawei Korea Wireless Engineer / LG UPlus 4G, 5G 서비스 구축 및 유지보수팀
 - 경력 / 전남대학교 산학협력단 정보화 본부 연구원 근무 / ETRI 한국전자통신 연구원 연구과제 수행 (2023.08.07 ~ 2023.10.31)
 - KB IT's Your Life 금융 교육 (2024.05 ~ .)
@@ -33,8 +35,8 @@ Huawei 에서 LG LTE/5G 서비스가 안정적으로 운영될 수 있도록 기
 
 
 ### 🏅 Certificates
+- 빅데이터분석기사
 - 정보처리기사
-![aws-certified-solutions-architect-associate (1)](https://github.com/BlackBean99/BlackBean99/assets/54030889/00795d79-6355-4031-84be-9cfd988a5894)
 - AWS Solutions Architect - Associate
 - SQLD (SQL Developer)
 - 컴퓨터활용능력 2급
